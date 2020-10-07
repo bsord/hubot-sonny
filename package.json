@@ -1,0 +1,23 @@
+{
+    "name": "hubot-sonny",
+    "version": "1.0.5",
+    "description": "Hubot personality script to make it feel like 'sonny' from the movie iRobot.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/bsord/hubot-sonny.git"
+    },
+    "keywords": [
+      "hubot",
+      "sonny"
+    ],
+    "author": "Bsord",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/bsord/hubot-sonny/issues"
+    },
+    "homepage": "https://github.com/bsord/hubot-sonny#readme"
+  }
